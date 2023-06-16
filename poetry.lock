@@ -572,7 +572,7 @@ files = [
 
 [[package]]
 name = "pydantic"
-version = "1.9.2"
+version = ">=1.10.0"
 description = "Data validation and settings management using python type hints"
 optional = false
 python-versions = ">=3.6.1"
